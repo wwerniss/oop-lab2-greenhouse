@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><FlowerGroupedBySoil>
+    <SoilGroup soil="ground">
+        <Plant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ficus_01">
+            <Name>Ficus</Name>
+            <Soil>ground</Soil>
+            <Origin>Southeast Asia</Origin>
+            <VisualParameters>
+                <StemColor>brown</StemColor>
+                <LeafColor>dark green</LeafColor>
+                <AverageSizeCm unit="cm">120.5</AverageSizeCm>
+            </VisualParameters>
+            <GrowingTips>
+                <TemperatureCelsius>22</TemperatureCelsius>
+                <LightLoving>false</LightLoving>
+                <WateringMlPerWeek>600</WateringMlPerWeek>
+            </GrowingTips>
+            <Multiplying>cuttings</Multiplying>
+        </Plant>
+        <Plant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="orchid_04">
+            <Name>Orchid</Name>
+            <Soil>ground</Soil>
+            <Origin>South America</Origin>
+            <VisualParameters>
+                <StemColor>green</StemColor>
+                <LeafColor>bright green</LeafColor>
+                <AverageSizeCm unit="cm">42</AverageSizeCm>
+            </VisualParameters>
+            <GrowingTips>
+                <TemperatureCelsius>24</TemperatureCelsius>
+                <LightLoving>false</LightLoving>
+                <WateringMlPerWeek>350</WateringMlPerWeek>
+            </GrowingTips>
+            <Multiplying>cuttings</Multiplying>
+        </Plant>
+    </SoilGroup>
+    <SoilGroup soil="podzolic">
+        <Plant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="fern_03">
+            <Name>Fern</Name>
+            <Soil>podzolic</Soil>
+            <Origin>South America</Origin>
+            <VisualParameters>
+                <StemColor>light green</StemColor>
+                <LeafColor>green</LeafColor>
+                <AverageSizeCm unit="cm">54.2</AverageSizeCm>
+            </VisualParameters>
+            <GrowingTips>
+                <TemperatureCelsius>19</TemperatureCelsius>
+                <LightLoving>false</LightLoving>
+                <WateringMlPerWeek>900</WateringMlPerWeek>
+            </GrowingTips>
+            <Multiplying>seeds</Multiplying>
+        </Plant>
+        <Plant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="begonia_05">
+            <Name>Begonia</Name>
+            <Soil>podzolic</Soil>
+            <Origin>Central America</Origin>
+            <VisualParameters>
+                <StemColor>red</StemColor>
+                <LeafColor>green</LeafColor>
+                <AverageSizeCm unit="cm">31.7</AverageSizeCm>
+            </VisualParameters>
+            <GrowingTips>
+                <TemperatureCelsius>21</TemperatureCelsius>
+                <LightLoving>false</LightLoving>
+                <WateringMlPerWeek>450</WateringMlPerWeek>
+            </GrowingTips>
+            <Multiplying>leaves</Multiplying>
+        </Plant>
+    </SoilGroup>
+    <SoilGroup soil="sod-podzolic">
+        <Plant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="aloe_02">
+            <Name>Aloe</Name>
+            <Soil>sod-podzolic</Soil>
+            <Origin>Africa</Origin>
+            <VisualParameters>
+                <StemColor>green</StemColor>
+                <LeafColor>gray green</LeafColor>
+                <AverageSizeCm unit="cm">35</AverageSizeCm>
+            </VisualParameters>
+            <GrowingTips>
+                <TemperatureCelsius>25</TemperatureCelsius>
+                <LightLoving>true</LightLoving>
+                <WateringMlPerWeek>100</WateringMlPerWeek>
+            </GrowingTips>
+            <Multiplying>leaves</Multiplying>
+        </Plant>
+        <Plant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="lavender_06">
+            <Name>Lavender</Name>
+            <Soil>sod-podzolic</Soil>
+            <Origin>Mediterranean</Origin>
+            <VisualParameters>
+                <StemColor>green</StemColor>
+                <LeafColor>silver green</LeafColor>
+                <AverageSizeCm unit="cm">65</AverageSizeCm>
+            </VisualParameters>
+            <GrowingTips>
+                <TemperatureCelsius>20</TemperatureCelsius>
+                <LightLoving>true</LightLoving>
+                <WateringMlPerWeek>200</WateringMlPerWeek>
+            </GrowingTips>
+            <Multiplying>seeds</Multiplying>
+        </Plant>
+    </SoilGroup>
+</FlowerGroupedBySoil>
